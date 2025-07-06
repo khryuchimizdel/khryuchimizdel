@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning LLM models and computer vision
 - 💞️ I’m looking to collaborate on my project "AI: Empower Early Detection"
-- 📫 How to reach me via telegram: @khryuchimizdel
+- 📫 How to reach me via telegram: @ai_tech_llc
 - 😄 Pronouns: my daughter could be Amelia
 - ⚡ Fun fact: not only Amelia would have name Amelia
 
