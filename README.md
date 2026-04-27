@@ -1,4 +1,4 @@
-- 👋 Hi, I’m founder & CEO «AI Tech» LLC
+- 👋🏼 Hi, I’m founder & CEO «AI Tech» LLC
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently building AI Tech, Inc.
 - 📫 How to reach me via telegram: @ai_tech_llc
